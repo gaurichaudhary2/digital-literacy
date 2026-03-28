@@ -51,6 +51,6 @@ Basic understanding of coding and collaboration tools<br>
 Awareness of cyber threats and methods to stay safe online
 
 ## Links 
-Linkedin - www.linkedin.com/in/gauri-chaudhary-21a177375
-Github - https://github.com/gaurichaudhary2
+Linkedin - www.linkedin.com/in/gauri-chaudhary-21a177375 <br>
+Github - https://github.com/gaurichaudhary2  <br>
 Kaggle - https://www.kaggle.com/gaurichaudhary2
